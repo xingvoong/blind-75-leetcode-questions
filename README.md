@@ -1,4 +1,4 @@
-# blind-75-leetcode-questions
+# Blind 75 Leetcode problems
 a list of Blind 75 Leetcode problems.
 
 # Acknowledgement: 
