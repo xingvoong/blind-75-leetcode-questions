@@ -34,12 +34,15 @@ def topKFrequent(nums, k):
       valueMap[nums[i]] = 1
 
   sort = sorted(valueMap.items(), key = lambda x:x[1], reverse = True)
-  print(sort)
-  print([x[0] for x in sort][:k])
+  return [x[0] for x in sort][:k]
 
-
-
-
+'''
+Complexity Analysis:
+time: O(nlogn)
+  for sorting
+space:
+O(n), for valueMap and sort
+'''
 topKFrequent([2,3,4,1,4,0,4,-1,-2,-1], 2)
 
 
