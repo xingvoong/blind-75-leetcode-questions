@@ -43,6 +43,3 @@ time: O(nlogn)
 space:
 O(n), for valueMap and sort
 '''
-topKFrequent([2,3,4,1,4,0,4,-1,-2,-1], 2)
-
-
