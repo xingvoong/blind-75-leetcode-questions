@@ -22,4 +22,24 @@ Output: [0, 1]
 '''
 
 def twoSum(nums, target):
-    return None
+    # 2 steps:
+    # build the hashmap
+    # traverse the hashmap
+    hash_map = {}
+    for i in range(len(nums)):
+        remain = target - nums[i];
+        if remain not in hash_map:
+            hash_map[nums[i]] = i
+        else:
+            return [hash_map[remain], i]
+    return hash_map
+
+
+print(twoSum([2,7,11,15], 9))
+print(twoSum([3,2,4], 6))
+print(twoSum([3,3], 6))
+
+'''
+runtime: O(N)
+space: O(N)
+'''
