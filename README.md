@@ -4,10 +4,10 @@ a list of Blind 75 Leetcode problems.
 ## Topics
 
 ### Array
-- [ ]  Two Sum
-- [ ]  Best Time to Buy and Sell Stock
-- [ ]  Contains Duplicate
-- [ ]  Product of Array Except Self
+- [x]  Two Sum
+- [x]  Best Time to Buy and Sell Stock
+- [x]  Contains Duplicate
+- [x]  Product of Array Except Self
 - [ ]  Maximum Subarray
 - [ ]  Maximum Product Subarray
 - [ ]  Find Minimum in Rotated Sorted Array
