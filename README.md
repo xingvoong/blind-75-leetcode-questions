@@ -9,7 +9,7 @@ a list of Blind 75 Leetcode problems.
 - [x]  Contains Duplicate
 - [x]  Product of Array Except Self
 - [x]  Maximum Subarray
-- [ ]  Maximum Product Subarray
+- [x]  Maximum Product Subarray
 - [ ]  Find Minimum in Rotated Sorted Array
 - [ ]  Search in Rotated Sorted Array
 - [ ]  3 Sum
