@@ -34,11 +34,16 @@ def findMin(nums):
         if nums[mid] < nums[mid - 1]:
             return nums[mid]
 
+        # search left or search right
+        # there is no rotation in the first haft,
+        # search in second haft
         if nums[mid] > nums[0]:
-            left = mid
-
+            left = mid + 1
+        
+        # nums[mid] < nums[0]
+        # there is already a rotation, search in first haft
         else:
-            right = mid + 1
+            right = mid - 1
 
 nums1 = [3, 4, 5, 1, 2]
 nums2 = [4, 5, 6, 7, 0, 1, 2]
