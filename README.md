@@ -16,8 +16,8 @@ a list of Blind 75 Leetcode problems.
 - [x]  Container With Most Water
 
 ### Binary
-- [ ]  Sum of Two Integers
-- [ ]  Number of 1 Bits
+- [x]  Sum of Two Integers
+- [x]  Number of 1 Bits
 - [ ]  Counting Bits
 - [ ]  Missing Number
 - [ ]  Reverse Bits
