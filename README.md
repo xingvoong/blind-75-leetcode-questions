@@ -12,12 +12,12 @@ a list of Blind 75 Leetcode problems.
 - [x]  Maximum Product Subarray
 - [x]  Find Minimum in Rotated Sorted Array
 - [x]  Search in Rotated Sorted Array
-- [ ]  3 Sum
-- [ ]  Container With Most Water
+- [x]  3 Sum
+- [x]  Container With Most Water
 
 ### Binary
-- [ ]  Sum of Two Integers
-- [ ]  Number of 1 Bits
+- [x]  Sum of Two Integers
+- [x]  Number of 1 Bits
 - [ ]  Counting Bits
 - [ ]  Missing Number
 - [ ]  Reverse Bits
