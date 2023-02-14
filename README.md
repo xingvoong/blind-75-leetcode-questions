@@ -19,11 +19,11 @@ a list of Blind 75 Leetcode problems.
 - [x]  Sum of Two Integers
 - [x]  Number of 1 Bits
 - [ ]  Counting Bits
-- [ ]  Missing Number
+- [x]  Missing Number
 - [ ]  Reverse Bits
 
 ### Dynamic Programming
-- [ ]  Climbing Stairs
+- [x]  Climbing Stairs
 - [ ]  Coin Change
 - [ ]  Longest Increasing Subsequence
 - [ ]  Longest Common Subsequence
