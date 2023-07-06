@@ -26,7 +26,7 @@ a list of Blind 75 Leetcode problems.
 - [x]  Climbing Stairs
 - [ ]  Coin Change
 - [x]  Longest Increasing Subsequence
-- [ ]  Longest Common Subsequence
+- [x]  Longest Common Subsequence
 - [ ]  Word Break Problem
 - [ ]  Combination Sum
 - [ ]  House Robber
