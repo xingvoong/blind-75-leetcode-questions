@@ -28,7 +28,7 @@ a list of Blind 75 Leetcode problems.
 - [x]  Longest Increasing Subsequence
 - [x]  Longest Common Subsequence
 - [ ]  Word Break Problem
-- [ ]  Combination Sum
+- [x]  Combination Sum
 - [ ]  House Robber
 - [ ]  House Robber II
 - [ ]  Decode Ways
@@ -44,6 +44,8 @@ a list of Blind 75 Leetcode problems.
 - [ ]  Alien Dictionary (Leetcode Premium)
 - [ ]  Graph Valid Tree (Leetcode Premium)
 - [ ]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
+- Note:
+Try to solve graph problems in BFS, or iterative solutions if possible. Because DFS and recursive solutions need a recursive stack.
 
 ### Interval
 - [ ]  Insert Interval
