@@ -48,7 +48,7 @@ a list of Blind 75 Leetcode problems.
 Try to solve graph problems in BFS, or iterative solutions if possible. Because DFS and recursive solutions need a recursive stack.
 
 ### Interval
-- [ ]  Insert Interval
+- [x]  Insert Interval
 - [ ]  Merge Intervals
 - [ ]  Non-overlapping Intervals
 - [ ]  Meeting Rooms (Leetcode Premium)
