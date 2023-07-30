@@ -1,49 +1,30 @@
 '''
-Longest increasing subsequence
+Given an integer array nums, return the length of the longest strictly increasing subsequence.
 
-Given an integer array nums, return the length of the longest strictly increasing
-subsequence.
-
-Example 1:
-input: nums = [10, 9, 2, 5, 3, 7, 101, 18]
-Output: 4
-explanation: the longest increasing subsequence is [2, 3, 7, 101],
-there the length is 4
-
-
-example 2:
-input: nums = [0, 1, 0, 3, 2, 3]
-output: 4
-
-example 3:
-input: nums = [7, 7, 7, 7, 7, 7]
-output: 1
-
-Constraints:
-- 1 <= nums.length <= 2500
--10^4 <= nums[i] <= 10^4
-
-Follow up: can you come up with an algorithm that runs in O(nlog(n)) time complexity?
+Input:
+nums = [10, 9, 2, 5, 3, 7, 101, 18]
 
 '''
 
+from functools import lru_cache
+class Solution:
+    def longestCommonSubsequence(text1, text2):
 
-def lengthOfLIS(nums):
+        @lru_cache(maxsize=None):
+        def memo_solve(p1, p2):
 
-    dp = [1] * len(nums)
-    for i in range(len(nums)):
-        for j in range(i):
-            if nums[i] > nums[j]:
-                dp[i] = max(dp[i], dp[j]+1)
+            # base case: if either string is now empty, we can't match
+            if p1 == len(text1) or p2 == len(text2):
+                return 0
 
-    return max(dp)
+            # recursive case 1
+            if text1[p1] ==  text2[2]:
+                return 1 + memo_solve(p1 + 1, p2 + 1)
 
+            # recursive case 2
+            else:
+                return max(memo_solve(p1, p2+1), memo_solve(p1+1, p2))
 
-nums1 = [10, 9, 2, 5, 3, 7, 101, 18]
-nums2 = [0, 1, 0, 3, 2, 3]
-nums3 = [7, 7, 7, 7, 7, 7, 7]
+        return memo_solve(0, 0)
 
-print(lengthOfLIS(nums1))
-print(lengthOfLIS(nums2))
-print(lengthOfLIS(nums3))
 

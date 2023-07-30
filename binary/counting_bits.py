@@ -46,3 +46,14 @@ def countBits(n):
 
 print(countBits(2))
 print(countBits(5))
+
+'''
+time: O(NlogN)
+
+for each integer x, in the worst case, we need to perform O(logn)
+operations, since the number of bits in x equals to logx + 1 and all the bits
+can be equal to 1. However, on average, each bit will be set n/2 times,
+so for each integer x we will perform log(x)/2 operations, therefor in total,
+it will cost O(n.log(n)/2) operations
+- space: O(1), since the out
+'''

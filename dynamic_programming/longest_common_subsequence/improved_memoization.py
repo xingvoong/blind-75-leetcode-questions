@@ -17,3 +17,13 @@ def longestCommonSubsequence(text1, text2):
             return max(memo_solve(p1, p2+1), memo_solve(p1+1, p2))
 
     return memo_solve(0, 0)
+
+
+'''
+Time: O(M.N)
+
+This time, solve each subproblem has a cost of O(1). Again there are M.N subproblems, and so we get a total time complexity of O(M.N)
+
+
+
+'''

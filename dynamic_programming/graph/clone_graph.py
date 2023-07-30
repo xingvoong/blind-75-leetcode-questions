@@ -21,6 +21,8 @@ Input: adjList = [[2, 4], [1, 3], [2, 4], [1, 3]]
 
 Algo:
 - build the clone node, and the graph as we go
+- undirected, connected graph, so we need to avoid cycle
+
 '''
 """
 # definition for a node
@@ -62,3 +64,19 @@ def cloneGraph(self, node):
         clone_node.neighbors = [self.cloneGraph(n) for n in node.neighbors]
 
     return clone_node
+
+
+'''
+Complexity Analysis:
+Let N be the number of nodes
+M be the number of vertices
+
+- time complexity: O(N+M), where N is a number of nodes (vertices) and M is the number of edges
+- Space: O(N) + O(H) = > O(N)
+
+H: the height of the graph:
+N: the number of nodes for the hashmap
+
+
+
+'''
