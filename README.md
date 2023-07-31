@@ -50,7 +50,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 ### Interval
 - [x]  Insert Interval
 - [x]  Merge Intervals
-- [ ]  Non-overlapping Intervals
+- [x]  Non-overlapping Intervals
 - [ ]  Meeting Rooms (Leetcode Premium)
 - [ ]  Meeting Rooms II (Leetcode Premium)
 
