@@ -63,7 +63,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [ ]  Reorder List
 
 ### Matrix
-- [ ]  Set Matrix Zeroes
+- [x]  Set Matrix Zeroes
 - [ ]  Spiral Matrix
 - [ ]  Rotate Image
 - [ ]  Word Search
