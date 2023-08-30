@@ -63,8 +63,8 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [ ]  Reorder List
 
 ### Matrix
-- [ ]  Set Matrix Zeroes
-- [ ]  Spiral Matrix
+- [x]  Set Matrix Zeroes
+- [ ]  Spiral Matrix, look for the solution in the comment section
 - [ ]  Rotate Image
 - [ ]  Word Search
 
