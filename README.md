@@ -64,8 +64,8 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 
 ### Matrix
 - [x]  Set Matrix Zeroes
-- [ ]  Spiral Matrix, look for the solution in the comment section
-- [ ]  Rotate Image
+- [x]  Spiral Matrix, look for the solution in the comment section
+- [x]  Rotate Image
 - [ ]  Word Search
 
 ### String
