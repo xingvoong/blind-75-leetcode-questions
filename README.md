@@ -69,7 +69,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [ ]  Word Search
 
 ### String
-- [ ]  Longest Substring Without Repeating Characters
+- [x]  Longest Substring Without Repeating Characters
 - [ ]  Longest Repeating Character Replacement
 - [ ]  Minimum Window Substring
 - [ ]  Valid Anagram
