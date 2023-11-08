@@ -72,8 +72,8 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Longest Substring Without Repeating Characters
 - [ ]  Longest Repeating Character Replacement
 - [ ]  Minimum Window Substring
-- [ ]  Valid Anagram
-- [ ]  Group Anagrams
+- [x]  Valid Anagram
+- [x]  Group Anagrams
 - [ ]  Valid Parentheses
 - [ ]  Valid Palindrome
 - [ ]  Longest Palindromic Substring
