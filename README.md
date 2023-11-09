@@ -74,7 +74,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [ ]  Minimum Window Substring
 - [x]  Valid Anagram
 - [x]  Group Anagrams
-- [ ]  Valid Parentheses
+- [x]  Valid Parentheses
 - [ ]  Valid Palindrome
 - [ ]  Longest Palindromic Substring
 - [ ]  Palindromic Substrings
