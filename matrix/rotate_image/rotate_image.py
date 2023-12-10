@@ -37,7 +37,6 @@ print(rotateMatrix(matrix1))
 print(rotateMatrix(matrix2))
 
 '''
-
 runtime:
 let N be the number of rows
 runtime: O(NxN)
