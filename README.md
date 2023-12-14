@@ -66,7 +66,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Set Matrix Zeroes
 - [x]  Spiral Matrix, look for the solution in the comment section
 - [x]  Rotate Image
-- [ ]  Word Search
+- [x]  Word Search
 
 ### String
 - [x]  Longest Substring Without Repeating Characters
