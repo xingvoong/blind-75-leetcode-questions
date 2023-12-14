@@ -60,7 +60,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Merge Two Sorted Lists
 - [x]  Merge K Sorted Lists
 - [x]  Remove Nth Node From End Of List
-- [ ]  Reorder List
+- [x]  Reorder List
 
 ### Matrix
 - [x]  Set Matrix Zeroes
