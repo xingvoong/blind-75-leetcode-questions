@@ -81,9 +81,9 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Encode and Decode Strings (Leetcode Premium)
 
 ### Tree
-- [ ]  Maximum Depth of Binary Tree
-- [ ]  Same Tree
-- [ ]  Invert/Flip Binary Tree
+- [x]  Maximum Depth of Binary Tree
+- [x]  Same Tree
+- [x]  Invert/Flip Binary Tree
 - [ ]  Binary Tree Maximum Path Sum
 - [ ]  Binary Tree Level Order Traversal
 - [ ]  Serialize and Deserialize Binary Tree
