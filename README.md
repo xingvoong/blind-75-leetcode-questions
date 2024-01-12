@@ -77,7 +77,7 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Valid Parentheses
 - [x]  Valid Palindrome
 - [ ]  Longest Palindromic Substring
-- [ ]  Palindromic Substrings
+- [x]  Palindromic Substrings
 - [ ]  Encode and Decode Strings (Leetcode Premium)
 
 ### Tree
