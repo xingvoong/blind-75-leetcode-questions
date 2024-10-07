@@ -84,8 +84,8 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Maximum Depth of Binary Tree
 - [x]  Same Tree
 - [x]  Invert/Flip Binary Tree
-- [ ]  Binary Tree Maximum Path Sum
-- [ ]  Binary Tree Level Order Traversal
+- [x]  Binary Tree Maximum Path Sum
+- [x]  Binary Tree Level Order Traversal
 - [ ]  Serialize and Deserialize Binary Tree
 - [ ]  Subtree of Another Tree
 - [ ]  Construct Binary Tree from Preorder and Inorder Traversal
