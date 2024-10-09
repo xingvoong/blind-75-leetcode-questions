@@ -86,8 +86,8 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Invert/Flip Binary Tree
 - [x]  Binary Tree Maximum Path Sum
 - [x]  Binary Tree Level Order Traversal
-- [ ]  Serialize and Deserialize Binary Tree
-- [ ]  Subtree of Another Tree
+- [x]  Serialize and Deserialize Binary Tree
+- [x]  Subtree of Another Tree
 - [ ]  Construct Binary Tree from Preorder and Inorder Traversal
 - [ ]  Validate Binary Search Tree
 - [ ]  Kth Smallest Element in a BST
