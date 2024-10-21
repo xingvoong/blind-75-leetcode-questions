@@ -37,7 +37,7 @@ a list of Blind 75 Leetcode problems.
 
 ### Graph
 - [x]  Clone Graph
-- [ ]  Course Schedule
+- [x]  Course Schedule
 - [ ]  Pacific Atlantic Water Flow
 - [ ]  Number of Islands
 - [ ]  Longest Consecutive Sequence
