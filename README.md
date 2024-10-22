@@ -37,8 +37,8 @@ a list of Blind 75 Leetcode problems.
 
 ### Graph
 - [x]  Clone Graph
-- [ ]  Course Schedule
-- [ ]  Pacific Atlantic Water Flow
+- [x]  Course Schedule
+- [x]  Pacific Atlantic Water Flow
 - [ ]  Number of Islands
 - [ ]  Longest Consecutive Sequence
 - [ ]  Alien Dictionary (Leetcode Premium)
@@ -78,16 +78,16 @@ Try to solve graph problems in BFS, or iterative solutions if possible. Because 
 - [x]  Valid Palindrome
 - [ ]  Longest Palindromic Substring
 - [x]  Palindromic Substrings
-- [ ]  Encode and Decode Strings (Leetcode Premium)
+- [x]  Encode and Decode Strings (Leetcode Premium)
 
 ### Tree
-- [ ]  Maximum Depth of Binary Tree
-- [ ]  Same Tree
-- [ ]  Invert/Flip Binary Tree
-- [ ]  Binary Tree Maximum Path Sum
-- [ ]  Binary Tree Level Order Traversal
-- [ ]  Serialize and Deserialize Binary Tree
-- [ ]  Subtree of Another Tree
+- [x]  Maximum Depth of Binary Tree
+- [x]  Same Tree
+- [x]  Invert/Flip Binary Tree
+- [x]  Binary Tree Maximum Path Sum
+- [x]  Binary Tree Level Order Traversal
+- [x]  Serialize and Deserialize Binary Tree
+- [x]  Subtree of Another Tree
 - [ ]  Construct Binary Tree from Preorder and Inorder Traversal
 - [ ]  Validate Binary Search Tree
 - [ ]  Kth Smallest Element in a BST
