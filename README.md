@@ -56,7 +56,8 @@ Other/TBD
 
 
 - Note:
-Try to solve graph problems in Kahn Algorithm, BFS, or iterative solutions if possible. Because DFS and recursive solutions need a recursive stack.
+    - Try solving graph problems in the Kahn Algorithm, connected components/DFS.
+    - for DFS recursive, there is a recursive stack for space python
 
 ### Interval
 - [x]  Insert Interval
