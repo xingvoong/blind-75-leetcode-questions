@@ -14,6 +14,7 @@ a list of Blind 75 Leetcode problems.
 - [x]  Search in Rotated Sorted Array
 - [x]  3 Sum
 - [x]  Container With Most Water
+- [ ]  Longest Consecutive Sequence
 
 ### Binary
 - [x]  Sum of Two Integers
@@ -36,14 +37,24 @@ a list of Blind 75 Leetcode problems.
 - [ ]  Jump Game
 
 ### Graph
-- [x]  Clone Graph
+Kahn's algo:
 - [x]  Course Schedule
-- [x]  Pacific Atlantic Water Flow
-- [ ]  Number of Islands
-- [ ]  Longest Consecutive Sequence
 - [ ]  Alien Dictionary (Leetcode Premium)
 - [ ]  Graph Valid Tree (Leetcode Premium)
+
+Connected components / DFS
+- [x]  Pacific Atlantic Water Flow
+- [x]  Number of Islands
 - [ ]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
+
+Other/TBD
+- [x]  Clone Graph
+
+
+
+
+
+
 - Note:
 Try to solve graph problems in Kahn Algorithm, BFS, or iterative solutions if possible. Because DFS and recursive solutions need a recursive stack.
 
