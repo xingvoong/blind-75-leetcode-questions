@@ -47,7 +47,7 @@ def kahn_topological_sort(graph):
             in_degree[v] += 1
 
     # step 2: collect vertices with in-degree 0
-    queue = deque([u for u in graph if in_degree[u] == 0])
+    queue = deque([v for v in graph if in_degree[v] == 0])
 
     topological_order = []
 
