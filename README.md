@@ -45,7 +45,7 @@ a list of Blind 75 Leetcode problems.
 - [ ]  Graph Valid Tree (Leetcode Premium)
 - [ ]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
 - Note:
-Try to solve graph problems in BFS, or iterative solutions if possible. Because DFS and recursive solutions need a recursive stack.
+Try to solve graph problems in Kahn Algorithm, BFS, or iterative solutions if possible. Because DFS and recursive solutions need a recursive stack.
 
 ### Interval
 - [x]  Insert Interval
