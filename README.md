@@ -39,19 +39,20 @@ a list of Blind 75 Leetcode problems.
 ### Graph
 Kahn's algo:
 - [x]  Course Schedule
-- [ ]  Course Schedule II
-- [ ]  Course Schedule III
+- [x]  Course Schedule II
 - [ ]  Minimum Height Trees
 - [ ]  Alien Dictionary (Leetcode Premium)
 - [ ]  Graph Valid Tree (Leetcode Premium)
 
-Connected components / DFS
+recursive DFS on 2D grid
 - [x]  Pacific Atlantic Water Flow
 - [x]  Number of Islands
-- [ ]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
+- [ ]  Max area of islands
+
 
 Other/TBD
 - [x]  Clone Graph
+- [ ]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
 
 
