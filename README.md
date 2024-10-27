@@ -42,7 +42,7 @@ Kahn's algo:
 - [x]  Course Schedule II
 - [ ]  Minimum Height Trees
 - [ ]  Alien Dictionary (Leetcode Premium)
-- [ ]  Graph Valid Tree (Leetcode Premium)
+- [x]  Graph Valid Tree (Leetcode Premium)
 
 recursive DFS on 2D grid
 - [x]  Pacific Atlantic Water Flow
