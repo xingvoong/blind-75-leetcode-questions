@@ -38,9 +38,9 @@ a list of Blind 75 Leetcode problems.
 
 ### Graph
 Kahn's algo:
-- [x]  Course Schedule
+- [x]  Course Schedule (core question of this type)
 - [x]  Course Schedule II
-- [ ]  Minimum Height Trees
+- [ ]  Minimum Height Trees (redo, slightly modified)
 - [ ]  Alien Dictionary (Leetcode Premium)
 - [x]  Graph Valid Tree (Leetcode Premium)
 
