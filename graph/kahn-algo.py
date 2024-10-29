@@ -40,7 +40,7 @@ from collections import defaultdict, deque
 def kahn_topological_sort(graph):
     # step 1: calculate in-degree of all vertices
     # initialize all in-degree to 0
-    in_degree = {u: 0 for u in graph}
+    in_degree = {v: 0 for v in graph}
     for u in graph:
         for v in graph[u]:
             # edge u->v: so in degree of v += 1
