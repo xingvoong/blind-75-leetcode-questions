@@ -40,14 +40,15 @@ a list of Blind 75 Leetcode problems.
 Kahn's algo:
 - [x]  Course Schedule (core question of this type)
 - [x]  Course Schedule II
-- [ ]  Minimum Height Trees (redo, slightly modified)
-- [ ]  Alien Dictionary (Leetcode Premium)
+- [x]  Minimum Height Trees (redo, slightly modified)
+- [x]  Alien Dictionary (Leetcode Premium) (hard question)
 - [x]  Graph Valid Tree (Leetcode Premium)
 
 recursive DFS on 2D grid
 - [x]  Pacific Atlantic Water Flow
 - [x]  Number of Islands
 - [ ]  Max area of islands
+- [ ]  surrounded regions
 
 
 Other/TBD
