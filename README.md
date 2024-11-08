@@ -47,7 +47,7 @@ Kahn's algo:
 recursive DFS on 2D grid
 - [x]  Pacific Atlantic Water Flow
 - [x]  Number of Islands
-- [ ]  Max area of islands
+- [x]  Max area of islands
 - [ ]  surrounded regions
 
 
