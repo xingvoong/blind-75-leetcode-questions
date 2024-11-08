@@ -53,7 +53,7 @@ recursive DFS on 2D grid
 
 Other/TBD
 - [x]  Clone Graph
-- [ ]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
+- [x]  Number of Connected Components in an Undirected Graph (Leetcode Premium)
 - [ ]  Number of provinces
 
 
